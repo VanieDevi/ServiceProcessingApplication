@@ -24,7 +24,7 @@
                 </GridView>
             </ListView.View>
         </ListView>
-        <ListView d:ItemsSource="{d:SampleData ItemCount=5}" Margin="102,152,455,208" SelectionChanged="FinishedQueue_ListView_SelectionChanged">
+        <ListView d:ItemsSource="{d:SampleData ItemCount=5}" Margin="38,152,519,208" SelectionChanged="FinishedQueue_ListView_SelectionChanged">
             <ListView.View>
                 <GridView>
                     <GridViewColumn/>
